@@ -19,6 +19,6 @@ public class StringBinarySearch {
                 "return",   "short",   "static",  "strictfp", "super",
                 "switch",   "synchronized", "this", "throw", "throws",
                 ""
-        }
+        };
     }
 }
